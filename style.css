@@ -237,9 +237,6 @@ span{
     61%, 80%{
         content: "Content Creator.";
     }
-    81%, 100%{
-        content: "Software Developer.";
-    }
 }
 
 @media (max-width: 1000px){
@@ -267,3 +264,4 @@ span{
         margin-top: 4rem;
     }
 }
+
